@@ -1,6 +1,5 @@
-# Lasso Regression Gradient Descent vs Analytical Ridge Regression
 
-This repository contains a Jupyter notebook that contains a project that compares lasso and ridge regression.  
+This repository contains a Jupyter notebook that contains a project that compares lasso and ridge regression writtin in Julia.  
 
 The comparative analysis analyzes the time and space complexities, flop counts, performance times, and numerical precisions.  
 
